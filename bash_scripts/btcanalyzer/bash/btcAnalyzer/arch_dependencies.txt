@@ -1,0 +1,10 @@
+# html2text -version (This is html2text, version 1.3.2a)
+yaourt -S html2text-with-utf8
+
+# bc 1.07.1
+sudo pacman -S bc
+
+# curl 7.71.1 (x86_64-pc-linux-gnu)
+sudo pacman -S curl
+
+
