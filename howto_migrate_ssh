@@ -1,0 +1,16 @@
+Enumerar tus remotos existentes a fin de obtener el nombre de los remotos que deseas cambiar.
+
+$ git remote -v
+> origin  https://github.com/USERNAME/REPOSITORY.git (fetch)
+> origin  https://github.com/USERNAME/REPOSITORY.git (push)
+
+Cambiar tu URL remota de HTTPS a SSH con el comando git remote set-url.
+
+$ git remote set-url origin git@github.com:USERNAME/REPOSITORY.git
+
+Verificar que la URL remota ha cambiado.
+
+$ git remote -v
+# Verify new remote URL
+> origin  git@github.com:USERNAME/REPOSITORY.git (fetch)
+> origin  git@github.com:USERNAME/REPOSITORY.git (push)
