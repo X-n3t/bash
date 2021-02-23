@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: S4vitar - Forked: X *** Arch Based-Distribution Version ***
+# *** Arch Based-Distribution Version ***
 
 #Colours
 greenColour="\e[0;32m\033[1m"
