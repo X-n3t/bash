@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Author: S4vitar - Forked: X *** Arch-Manjaro Version ***
 
 #Colours
 greenColour="\e[0;32m\033[1m"
